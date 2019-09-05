@@ -1,2 +1,2 @@
-## This website was deprecated
-If you want to buy a domain, please contact me.
+## html2jade.org
+Taking over from @chenka - 5/9/19
